@@ -28,4 +28,4 @@ No extra dependencies — download and run.
 - **Family Sharing:** Multiple profiles with individual preferences and parental controls.
 
 ## A note on usage
-> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.                  
+> Use responsibly. This page is an independent listing and is not affiliated with the original vendor.                   
